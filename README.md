@@ -1,32 +1,27 @@
+# About Me
+
+Hi, I’m Aditya Arya. I design and build apps for iPhone and Mac in Singapore. I’m interested in how small interactions, from live bus arrivals to the Dynamic Island, can make apps easier to use.
+
+If you’d like to talk about a project, [book a call](https://cal.com/aditya-arya/design).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/aditya-arya1/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/adiarya05)
+
 <table width="100%">
   <tr>
-    <td width="50%"><strong>Hey, I’m Aditya Arya.</strong></td>
-    <td width="50%" align="right"><a href="https://www.linkedin.com/in/aditya-arya1/">LinkedIn</a> · <a href="https://x.com/adiarya05">X</a> · <a href="https://cal.com/aditya-arya/design">Book a call</a></td>
-  </tr>
-  <tr>
     <td colspan="2">
-      <a href="https://adiarya.com/"><img src="./assets/portfolio.jpg" width="100%" alt="Aditya Arya’s portfolio cover, Building with Intent, featuring the WayAuto and Klick icons"></a><br>
-      <a href="https://adiarya.com/"><strong>Portfolio ↗</strong></a> · I design and build apps for iPhone and Mac in Singapore.
+      <a href="https://adiarya.com/"><img src="./assets/portfolio.png" width="100%" alt="Screenshot of Aditya Arya’s live portfolio homepage at adiarya.com"></a><br>
+      <a href="https://adiarya.com/"><strong>Portfolio ↗</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/AdiArya05/Catch"><img src="./assets/catch-sg-buses.jpg" width="100%" alt="Catch SG Buses showing live arrival times on an iPhone"></a><br>
+      <a href="https://github.com/AdiArya05/Catch"><img src="./assets/catch-sg-buses.png" width="100%" alt="Catch SG Buses Live Activity showing the next bus and a Leave Now prompt on the iPhone Lock Screen"></a><br>
       <a href="https://github.com/AdiArya05/Catch"><strong>Catch SG Buses</strong></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/AdiArya05/codex-usage-menu-bar"><img src="./assets/codex-usage.jpg" width="100%" alt="Codex Usage showing weekly quota in the Mac menu bar"></a><br>
-      <a href="https://github.com/AdiArya05/codex-usage-menu-bar"><strong>Codex Usage</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://adiarya.com/work/wayauto"><img src="./assets/wayauto.jpg" width="100%" alt="The WayAuto app icon with a white car on a blue gradient"></a><br>
-      <a href="https://adiarya.com/work/wayauto"><strong>WayAuto icon</strong></a>
-    </td>
-    <td width="50%">
-      <a href="https://adiarya.com/work/soja"><img src="./assets/soja.jpg" width="100%" alt="Soja’s sleep recovery dashboard on an iPhone"></a><br>
-      <a href="https://adiarya.com/work/soja"><strong>Soja</strong></a>
+      <a href="https://github.com/AdiArya05/dot-prototype"><img src="./assets/dot-dynamic-island.png" width="100%" alt="Dot listening in the Dynamic Island with the transcript Reminders for the next three days"></a><br>
+      <a href="https://github.com/AdiArya05/dot-prototype"><strong>Dot in the Dynamic Island</strong></a>
     </td>
   </tr>
   <tr>
