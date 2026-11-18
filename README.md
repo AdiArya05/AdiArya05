@@ -1,7 +1,11 @@
 <table width="100%">
   <tr>
     <td width="72%"><strong>Hey, I’m Aditya Arya.</strong> · Building with intent</td>
-    <td width="28%" align="right"><a href="https://www.linkedin.com/in/aditya-arya1/">LinkedIn</a> · <a href="https://x.com/adiarya05">X</a> · <a href="https://cal.com/aditya-arya/design">Book a call</a></td>
+    <td width="28%" align="right">
+      <a href="https://cal.com/aditya-arya/design">Book a call</a> &nbsp;
+      <a href="https://www.linkedin.com/in/aditya-arya1/" title="LinkedIn"><img src="https://adiarya.com/media/linkedin.svg" width="18" align="absmiddle" alt="LinkedIn"></a> &nbsp;
+      <a href="https://x.com/adiarya05" title="X"><img src="https://cdn.simpleicons.org/x/7D8590" width="18" align="absmiddle" alt="X"></a>
+    </td>
   </tr>
   <tr>
     <td rowspan="2" width="72%">
@@ -21,23 +25,37 @@
   </tr>
   <tr>
     <td colspan="2">
-      <strong>Apple</strong> &nbsp;
-      <img src="https://img.shields.io/badge/Swift-24292F?style=flat&amp;logo=swift&amp;logoColor=F05138" alt="Swift">
-      <img src="https://img.shields.io/badge/SwiftUI-24292F?style=flat&amp;logo=swift&amp;logoColor=409CFF" alt="SwiftUI">
-      <img src="https://img.shields.io/badge/Xcode-24292F?style=flat&amp;logo=xcode&amp;logoColor=59AFFF" alt="Xcode">
-      <img src="https://img.shields.io/badge/WidgetKit-24292F?style=flat" alt="WidgetKit">
-      <img src="https://img.shields.io/badge/ActivityKit-24292F?style=flat" alt="ActivityKit">
-      <img src="https://img.shields.io/badge/MapKit-24292F?style=flat" alt="MapKit">
+      <strong>languages</strong><br>
+      <img src="https://img.shields.io/badge/-Swift-111?style=flat-square&amp;logo=swift&amp;logoColor=F05138" alt="Swift">
+      <img src="https://img.shields.io/badge/-TypeScript-111?style=flat-square&amp;logo=typescript&amp;logoColor=5B9EE5" alt="TypeScript">
+      <img src="https://img.shields.io/badge/-JavaScript-111?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-Python-111?style=flat-square&amp;logo=python&amp;logoColor=FFDE57" alt="Python">
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <strong>Web &amp; data</strong> &nbsp;
-      <img src="https://img.shields.io/badge/TypeScript-24292F?style=flat&amp;logo=typescript&amp;logoColor=6AAEFD" alt="TypeScript">
-      <img src="https://img.shields.io/badge/JavaScript-24292F?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Supabase-24292F?style=flat&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase">
-      <img src="https://img.shields.io/badge/PostgreSQL-24292F?style=flat&amp;logo=postgresql&amp;logoColor=78ABD4" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/Vercel-24292F?style=flat&amp;logo=vercel&amp;logoColor=FFFFFF" alt="Vercel">
+      <strong>apple</strong><br>
+      <img src="https://img.shields.io/badge/-SwiftUI-111?style=flat-square&amp;logo=swift&amp;logoColor=409CFF" alt="SwiftUI">
+      <img src="https://img.shields.io/badge/-Xcode-111?style=flat-square&amp;logo=xcode&amp;logoColor=59AFFF" alt="Xcode">
+      <img src="https://img.shields.io/badge/-WidgetKit-111?style=flat-square&amp;logo=apple&amp;logoColor=B8BFC8" alt="WidgetKit">
+      <img src="https://img.shields.io/badge/-ActivityKit-111?style=flat-square&amp;logo=apple&amp;logoColor=B8BFC8" alt="ActivityKit">
+      <img src="https://img.shields.io/badge/-MapKit-111?style=flat-square&amp;logo=apple&amp;logoColor=B8BFC8" alt="MapKit">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>design &amp; tools</strong><br>
+      <img src="https://img.shields.io/badge/-Framer-111?style=flat-square&amp;logo=framer&amp;logoColor=EAEAEA" alt="Framer">
+      <img src="https://img.shields.io/badge/-Codex-111?style=flat-square" alt="Codex">
+      <img src="https://img.shields.io/badge/-Git-111?style=flat-square&amp;logo=git&amp;logoColor=F05033" alt="Git">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>backend &amp; hosting</strong><br>
+      <img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&amp;logo=supabase&amp;logoColor=3FCF8E" alt="Supabase">
+      <img src="https://img.shields.io/badge/-PostgreSQL-111?style=flat-square&amp;logo=postgresql&amp;logoColor=78ABD4" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&amp;logo=vercel&amp;logoColor=FFFFFF" alt="Vercel">
     </td>
   </tr>
 </table>
